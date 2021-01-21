@@ -14,5 +14,7 @@ President of AI Global Consulting in Geosciences and Data Science, LLC
 Vice-President of International Affairs at IFNA
 
 Week 1: Time Series Components & Stationarity
+
 Week 2: Estimating & Removing Trends
+
 Week 3: Estimating & Removing Seasonal Variation
