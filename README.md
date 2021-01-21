@@ -7,7 +7,7 @@ It took me some time to collect and organize the material after teaching the cou
 Have fun!
 Abolfazl Saghafi, PhD
 
-Assistant Professor of Statistics & data Science  
+Assistant Professor of Statistics & Data Science  
 University of the Sciences in Philadelphia  
 Data Science Program Director  
 President of AI Global Consulting in Geosciences and Data Science, LLC  
