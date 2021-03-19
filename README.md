@@ -8,7 +8,6 @@ Have fun!
 Abolfazl Saghafi, PhD
 
 Assistant Professor of Statistics & Data Science  
-University of the Sciences in Philadelphia  
 Data Science Program Director  
 President of AI Global Consulting in Geosciences and Data Science, LLC  
 Vice-President of International Affairs at IFNA  
