@@ -4,7 +4,7 @@ I strongly believe in "knowledge increases by sharing", so here are my course ma
 
 It took me some time to collect and organize the material after teaching the course a number of times. If you are an instructor, feel free to use the material in your course, please don't remove my name and credentials from the slides, you may add yours. For students, dive in and share if you find the stuff useful.
 
-Have fun!
+Have fun!  
 Abolfazl Saghafi, PhD
 
 Assistant Professor of Statistics & Data Science  
