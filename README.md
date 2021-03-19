@@ -20,3 +20,4 @@ Week 4: Moving Average Time Series
 Week 5: Autoregressive Time Series  
 Week 6: ARFIMA Time Series  
 Week 7: Parameter Estimation & Residual Analysis  
+Week 8: Cross-Validation & Forecasting  
